@@ -1,0 +1,29 @@
+{
+  "name": "com.example.hello",
+  "version": "0.0.1",
+  "displayName": "Hello Toptal",
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ],
+    "plugins": {
+      "cordova-sqlite-storage": {},
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-geolocation": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "^7.0.0",
+    "cordova-common": "^3.2.0",
+    "cordova-ios": "^4.5.4",
+    "cordova-serve": "^3.0.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {
+    "cordova-plugin-dialogs": "^2.0.2",
+    "cordova-plugin-geolocation": "^4.0.2",
+    "cordova-sqlite-storage": "^3.3.0"
+  }
+}
