@@ -1,7 +1,7 @@
 {
-  "name": "com.example.hello",
+  "name": "com.example.hello-toptal",
   "version": "0.0.1",
-  "displayName": "Hello Toptal",
+  "displayName": "Cordova Toptal",
   "cordova": {
     "platforms": [
       "android",
